@@ -1,0 +1,75 @@
+/**
+* @license
+*
+* Font Family: Sunsive
+* Designed by: Indian Type Foundry
+* URL: https://www.fontshare.com/fonts/Sunsive
+* © 2025 Indian Type Foundry
+*
+* Sunsive Extralight 
+* Sunsive Light 
+* Sunsive Regular 
+* Sunsive Medium 
+* Sunsive Semibold 
+* Sunsive Bold 
+* Sunsive Variable (Variable font)
+
+*
+*/
+@font-face {
+  font-family: 'Sunsive';
+    src: url('Sunsive-Regular.html'); /* IE9 Compat Modes */
+    src: url('Sunsive-Regulard41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sunsive-Regular-2.html') format('woff'), /* Modern Browsers */
+         url('Sunsive-Regular-3.html') format('woff2'), /* Modern Browsers */
+         url('Sunsive-Regular-4.html') format('truetype'); /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+}
+@font-face {
+  font-family: 'Sunsive';
+    src: url('Sunsive-Medium.html'); /* IE9 Compat Modes */
+    src: url('Sunsive-Mediumd41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sunsive-Medium-2.html') format('woff'), /* Modern Browsers */
+         url('Sunsive-Medium-3.html') format('woff2'), /* Modern Browsers */
+         url('Sunsive-Medium-4.html') format('truetype'); /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+}
+@font-face {
+  font-family: 'SunsiveSemBd';
+    src: url('Sunsive-SemiBold.html'); /* IE9 Compat Modes */
+    src: url('Sunsive-SemiBoldd41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sunsive-SemiBold-2.html') format('woff'), /* Modern Browsers */
+         url('Sunsive-SemiBold-3.html') format('woff2'), /* Modern Browsers */
+         url('Sunsive-SemiBold-4.html') format('truetype'); /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 600;
+    text-rendering: optimizeLegibility;
+}
+@font-face {
+  font-family: 'Sunsive';
+    src: url('Sunsive-Bold.html'); /* IE9 Compat Modes */
+    src: url('Sunsive-Boldd41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sunsive-Bold-2.html') format('woff'), /* Modern Browsers */
+         url('Sunsive-Bold-3.html') format('woff2'), /* Modern Browsers */
+         url('Sunsive-Bold-4.html') format('truetype'); /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Sunsive';
+    src: url('Sunsive-ExtraBold.html'); /* IE9 Compat Modes */
+    src: url('Sunsive-ExtraBoldd41d.html?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sunsive-ExtraBold-2.html') format('woff'), /* Modern Browsers */
+         url('Sunsive-ExtraBold-3.html') format('woff2'), /* Modern Browsers */
+         url('Sunsive-ExtraBold-4.html') format('truetype'); /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
